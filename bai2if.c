@@ -1,3 +1,4 @@
+//giai phuong trinh 2 an ,a,b,c,d,e,f,nhap tu ban phim
 #include<stdio.h>
 #include<math.h>
 int main()
